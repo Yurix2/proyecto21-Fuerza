@@ -1,4 +1,7 @@
-const Engine = Matter.Engine;
++
+
+
+	const Engine = Matter.Engine;
 const World = Matter.World;
 const Bodies = Matter.Bodies;
 const Body = Matter.Body;
@@ -35,6 +38,9 @@ function draw() {
   groundObj.display();
   //completar
   //completar
+	//completar1
+	//completar2
+	//completar3
   
 }
 
